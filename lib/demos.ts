@@ -13,6 +13,11 @@ export const demos: Item[] = [
     name: 'Layouts',
     items: [
       {
+        name: 'Getting Started',
+        slug: 'quickstart',
+        description: 'Set Up Diablo UI',
+      },
+      {
         name: 'Nested Layouts',
         slug: 'layouts',
         description: 'Create UI that is shared across routes',

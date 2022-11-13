@@ -20,7 +20,6 @@ export default function RootLayout({
           </div>
 
           <div className="col-start-3 space-y-6">
-            <AddressBar />
 
             <div className="rounded-xl border border-zinc-800 bg-black p-8">
               {children}
